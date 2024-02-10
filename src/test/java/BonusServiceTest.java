@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Assertions;
 
 public class BonusServiceTest {
 
-    @Testgit
+    @Test
     void shouldCalculateForRegisteredAndUnderLimit() {
         BonusService service = new BonusService();
 
